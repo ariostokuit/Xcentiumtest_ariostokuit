@@ -1,6 +1,8 @@
 # Getting Started with the Application
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I could not get the API to work since I was getting a weird error with the content header but here is what I have for the test.
+Thank you again for the opportunity.
 
 ## Available Scripts
 
